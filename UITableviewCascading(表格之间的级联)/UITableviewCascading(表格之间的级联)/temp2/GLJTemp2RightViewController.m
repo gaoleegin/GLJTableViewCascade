@@ -14,7 +14,7 @@
 
 @implementation GLJTemp2RightViewController
 
-NSString *temp2RightViewID = @"temp2RightViewID";
+static NSString *temp2RightViewID = @"temp2RightViewID";
 
 - (void)viewDidLoad {
     [super viewDidLoad];

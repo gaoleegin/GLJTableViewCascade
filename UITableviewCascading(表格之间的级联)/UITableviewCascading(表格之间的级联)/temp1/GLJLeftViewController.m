@@ -21,7 +21,7 @@
 @implementation GLJLeftViewController
 
 
-NSString *leftcellID = @"leftcellID";
+static NSString *leftcellID = @"leftcellID";
 
 - (NSArray *)categories {
 

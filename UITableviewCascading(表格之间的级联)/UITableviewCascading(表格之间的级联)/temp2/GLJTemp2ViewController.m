@@ -29,7 +29,7 @@
 @implementation GLJTemp2ViewController
 
 
-NSString *temp2CellID = @"temp2CellID";
+static NSString *temp2CellID = @"temp2CellID";
 
 
 - (NSArray *)categories {

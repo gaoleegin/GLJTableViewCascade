@@ -26,8 +26,8 @@
 
 @implementation GLJTemp3ViewController
 
-NSString  *temp3leftCellID = @"temp3leftCellID";
-NSString  *temp3rightCellID = @"temp3rightCellID";
+static NSString  *temp3leftCellID = @"temp3leftCellID";
+static NSString  *temp3rightCellID = @"temp3rightCellID";
 
 - (void)viewDidLoad {
     [super viewDidLoad];

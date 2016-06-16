@@ -18,7 +18,7 @@
 
 @implementation GLJRightViewController
 
-NSString *rightcellID = @"rightcellID";
+static NSString *rightcellID = @"rightcellID";
 
 
 - (void)viewDidLoad {
